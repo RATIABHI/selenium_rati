@@ -99,7 +99,6 @@ public class Demo {
 			driver.findElement(By.xpath(elementpath)).click();
 			driver.navigate().back();
 			
-			
 		}
 		
 		getLinkTexts();
